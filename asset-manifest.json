@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mibo-development-build/static/css/main.bb0f7a7b.css",
+    "main.js": "/mibo-development-build/static/js/main.2b94935b.js",
+    "static/js/453.e9dac7bf.chunk.js": "/mibo-development-build/static/js/453.e9dac7bf.chunk.js",
+    "static/media/logo.png.png": "/mibo-development-build/static/media/logo.png.5d50b482f6a744d5481d.png",
+    "static/media/quicksand-latin-ext-400-normal.woff": "/mibo-development-build/static/media/quicksand-latin-ext-400-normal.1e5e50640be84762e1c2.woff",
+    "static/media/quicksand-latin-ext-500-normal.woff": "/mibo-development-build/static/media/quicksand-latin-ext-500-normal.adab534b87ca09e0ed09.woff",
+    "static/media/quicksand-latin-500-normal.woff": "/mibo-development-build/static/media/quicksand-latin-500-normal.d5ef5eda2e29fe89c974.woff",
+    "static/media/quicksand-latin-400-normal.woff": "/mibo-development-build/static/media/quicksand-latin-400-normal.c483fecfa5b2b6081267.woff",
+    "static/media/quicksand-latin-ext-700-normal.woff": "/mibo-development-build/static/media/quicksand-latin-ext-700-normal.111139598f698fae786d.woff",
+    "static/media/quicksand-latin-700-normal.woff": "/mibo-development-build/static/media/quicksand-latin-700-normal.8de7b609ea9b196077f1.woff",
+    "static/media/quicksand-latin-400-normal.woff2": "/mibo-development-build/static/media/quicksand-latin-400-normal.8d207fa27addbf026018.woff2",
+    "static/media/quicksand-latin-500-normal.woff2": "/mibo-development-build/static/media/quicksand-latin-500-normal.fdb2ca0ed6578b0c919c.woff2",
+    "static/media/quicksand-latin-ext-400-normal.woff2": "/mibo-development-build/static/media/quicksand-latin-ext-400-normal.7ff467ecc8f82d5d4983.woff2",
+    "static/media/quicksand-latin-ext-500-normal.woff2": "/mibo-development-build/static/media/quicksand-latin-ext-500-normal.3d4cdf1a92bb70855352.woff2",
+    "static/media/quicksand-latin-700-normal.woff2": "/mibo-development-build/static/media/quicksand-latin-700-normal.a26b4df3eda808812319.woff2",
+    "static/media/quicksand-latin-ext-700-normal.woff2": "/mibo-development-build/static/media/quicksand-latin-ext-700-normal.84499c9601b6c79e8841.woff2",
+    "static/media/quicksand-vietnamese-500-normal.woff": "/mibo-development-build/static/media/quicksand-vietnamese-500-normal.43bdaa1a3fed6fc007de.woff",
+    "static/media/quicksand-vietnamese-400-normal.woff": "/mibo-development-build/static/media/quicksand-vietnamese-400-normal.b81893c113e684d9eec4.woff",
+    "static/media/quicksand-vietnamese-700-normal.woff": "/mibo-development-build/static/media/quicksand-vietnamese-700-normal.47a823ae095f5f4cfd82.woff",
+    "static/media/quicksand-vietnamese-500-normal.woff2": "/mibo-development-build/static/media/quicksand-vietnamese-500-normal.f19b8db23aae9c763ef0.woff2",
+    "static/media/quicksand-vietnamese-400-normal.woff2": "/mibo-development-build/static/media/quicksand-vietnamese-400-normal.5062c95fb3c68af2ee2e.woff2",
+    "static/media/quicksand-vietnamese-700-normal.woff2": "/mibo-development-build/static/media/quicksand-vietnamese-700-normal.5aecd40f51b84ffb6efa.woff2",
+    "index.html": "/mibo-development-build/index.html",
+    "main.bb0f7a7b.css.map": "/mibo-development-build/static/css/main.bb0f7a7b.css.map",
+    "main.2b94935b.js.map": "/mibo-development-build/static/js/main.2b94935b.js.map",
+    "453.e9dac7bf.chunk.js.map": "/mibo-development-build/static/js/453.e9dac7bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb0f7a7b.css",
+    "static/js/main.2b94935b.js"
+  ]
+}
