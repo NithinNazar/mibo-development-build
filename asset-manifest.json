@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mibo-development-build/static/css/main.bb0f7a7b.css",
-    "main.js": "/mibo-development-build/static/js/main.2b94935b.js",
+    "main.css": "/mibo-development-build/static/css/main.6ed5e09c.css",
+    "main.js": "/mibo-development-build/static/js/main.6f020607.js",
     "static/js/453.e9dac7bf.chunk.js": "/mibo-development-build/static/js/453.e9dac7bf.chunk.js",
     "static/media/logo.png.png": "/mibo-development-build/static/media/logo.png.5d50b482f6a744d5481d.png",
     "static/media/quicksand-latin-ext-400-normal.woff": "/mibo-development-build/static/media/quicksand-latin-ext-400-normal.1e5e50640be84762e1c2.woff",
@@ -23,12 +23,12 @@
     "static/media/quicksand-vietnamese-400-normal.woff2": "/mibo-development-build/static/media/quicksand-vietnamese-400-normal.5062c95fb3c68af2ee2e.woff2",
     "static/media/quicksand-vietnamese-700-normal.woff2": "/mibo-development-build/static/media/quicksand-vietnamese-700-normal.5aecd40f51b84ffb6efa.woff2",
     "index.html": "/mibo-development-build/index.html",
-    "main.bb0f7a7b.css.map": "/mibo-development-build/static/css/main.bb0f7a7b.css.map",
-    "main.2b94935b.js.map": "/mibo-development-build/static/js/main.2b94935b.js.map",
+    "main.6ed5e09c.css.map": "/mibo-development-build/static/css/main.6ed5e09c.css.map",
+    "main.6f020607.js.map": "/mibo-development-build/static/js/main.6f020607.js.map",
     "453.e9dac7bf.chunk.js.map": "/mibo-development-build/static/js/453.e9dac7bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb0f7a7b.css",
-    "static/js/main.2b94935b.js"
+    "static/css/main.6ed5e09c.css",
+    "static/js/main.6f020607.js"
   ]
 }
